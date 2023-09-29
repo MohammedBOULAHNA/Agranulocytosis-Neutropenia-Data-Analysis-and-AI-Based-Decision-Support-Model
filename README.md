@@ -12,7 +12,7 @@ The project aims to analyze and address the challenges posed by agranulocytosis 
 4.	**Advanced Data Visualization**: Advanced data visualization techniques will be employed to effectively communicate the insights derived from the collected data. This will aid medical professionals in comprehending trends, correlations, and patterns related to agranulocytosis and neutropenia.
 5.	**Machine Learning Tasks**: The project will delve into advanced machine learning tasks by utilizing multiple models such as Support Vector Machines (SVM), neural networks, gradient boosting, and random forest. Hyperparameter tuning will be performed to optimize model performance.
 6.	**Model Ranking and Selection**: Employing the Borda count methodology, the project will rank various machine learning models based on performance metrics such as accuracy, F1 score, and running time. This approach will facilitate the selection of the most suitable model for the decision support system.
-7.	**Recommendation System**: The project will implement the Apriori algorithm to develop a recommendation system. This system will assist medical professionals in making informed decisions about treatment options based on historical patient data and therapeutic class information.
+7.	**Recommendation System**: The project will implement the Apriori algorithm to develop a recommendation system. This system will assist medical professionals in making informed decisions about treatment options based on historical patient data and therapeutic class information.   
 ![image](https://github.com/MohammedBOULAHNA/Agranulocytosis-Neutropenia-Data-Analysis-and-AI-Based-Decision-Support-Model/assets/124175118/56814ba5-509c-4a2b-affc-4dfca3c2b6e0)
 
 ## Expected Outcomes: 
